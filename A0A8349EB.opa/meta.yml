@@ -1,0 +1,19 @@
+id: A0A8349EB
+title: A Combined Guru Yoga for Marpa, Mila, and Gampopa
+type: translation
+pechas:
+- I997BDC99
+- I02EF2250
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:02:00.480770
+  last_modified_at: 2023-01-04 13:02:00.480779
+  collections:
+  - Milarepa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I997BDC99/646C: 9B6C
+  I02EF2250/F248: 9B6C
